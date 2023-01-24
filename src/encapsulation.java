@@ -13,5 +13,5 @@ class Amazon{
        }
 }
 class Gpay{
-   private float txnCharge=0.5f;
+   float txnCharge=0.5f;
 }
